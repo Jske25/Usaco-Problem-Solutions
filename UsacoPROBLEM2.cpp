@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//2021 December Bronze Problem 2
+
 bool all_zero (vector<int> f) {
     bool sender = true;
     for (int x = 0; x < f.size(); x++) {
