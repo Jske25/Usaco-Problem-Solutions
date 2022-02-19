@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//2021 December Bronze Problem 1
+
 int main() {
     int n; cin >> n;
     string f; cin >> f;
